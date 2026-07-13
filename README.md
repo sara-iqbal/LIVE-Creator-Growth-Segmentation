@@ -2,9 +2,7 @@
 
 An end-to-end analytics project that segments livestreaming creators, predicts which ones are likely to break out before it shows up in revenue, and turns both into a set of decisions a growth/ops team could actually act on.
 
-**[View the live dashboard](#https://sara-iqbal.github.io/LIVE-Creator-Growth-Segmentation/)** · Analysis notebook: `tiktok_live_creator_growth_segmentation.ipynb` · Dashboard: `dashboard.html`
-
-![dashboard preview](docs/preview.png)
+View the live dashboard · https://sara-iqbal.github.io/LIVE-Creator-Growth-Segmentation/
 
 ---
 
